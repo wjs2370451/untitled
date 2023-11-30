@@ -9,6 +9,7 @@ fun main(args: Array<String>) {
     println("Program arguments: ${args.joinToString()}")
         println("Program arguments: ${args.joinToString()}")
                 println("Pasdasdasdasdasdasdasdasdas")
+                println("Pasdasdasdasdasdasdasdasdas")println("Pasdasdasdasdasdasdasdasdas")println("Pasdasdasdasdasdasdasdasdas")println("Pasdasdasdasdasdasdasdasdas")
 
 
 }
